@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Unfollow Manager",
+  "version": "0.1.0",
+  "description": "Review Instagram following data locally.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_title": "Instagram Unfollow Manager",
+    "default_popup": "index.html"
+  }
+}

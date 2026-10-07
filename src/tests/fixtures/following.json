@@ -1,0 +1,7 @@
+{
+  "relationships_following": [
+    { "title": "Alice", "string_list_data": [{ "value": "alice", "href": "https://www.instagram.com/alice/" }] },
+    { "title": "Bob", "string_list_data": [{ "value": "bob" }] },
+    { "title": "Charlie", "string_list_data": [{ "value": "charlie" }] }
+  ]
+}

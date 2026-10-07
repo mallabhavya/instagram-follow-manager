@@ -1,0 +1,7 @@
+[
+  { "string_list_data": [{ "value": "Alice", "href": "https://www.instagram.com/alice/" }] },
+  { "string_list_data": [{ "value": "Charlie" }] },
+  { "string_list_data": [{ "value": "ALICE" }] },
+  { "string_list_data": [{ "timestamp": 123 }] },
+  null
+]
